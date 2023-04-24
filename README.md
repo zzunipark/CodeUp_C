@@ -1,16 +1,22 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcc33&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=CodeUp:CLang&descAlignY=75&descAlign=60)
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/zzunipark/CodeUp_C/blame/main/animation.svg" target="_blank">
+    <img src="animation.svg" style="width: 100%;">
+  </a>
+</div>
 
-<h3 align="center">CodeUp : CLang</h3>
+#
 
-<hr>
+<a href="https://github.com/zzunipark/CodeUp_C" target="_blank">
+  <img align="left" alt="Github Link" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" />
+</a>
 
-<p align="center">
-    <Strong><br>About This Repository 🥰</Strong><br>
-</p>
+<br />
+<br />
 
-<p align="center">
-    - 언젠가 적을거임..<br>
-    <br>
-</p>
+CodeUp에서 풀어본 문제들의 소스파일을 업로드합니다.
 
-<hr>
+### 💻 Used Languages
+- &nbsp; CLang
+
+### 📄 License
+- &nbsp; There is no license applied to this repository.
